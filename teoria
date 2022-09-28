@@ -1,0 +1,43 @@
+Con tus propias palabras explica los siguientes conceptos.
+
+
+-1 ¿Que es Undefined?
+
+Es un valor que aparece cuando se busca algo que no existe, como una variable que no tiene aún un valor.
+
+-2 ¿Que es Null?
+
+Es un objeto que sí existe, pero no tiene ningún valor asociado
+
+-3 ¿Cual es la diferencia en la utilizacion de operadores logicos y de comparacion?
+
+
+
+-4 Explica las siguientes estructuras..
+
+    -4-a- If - else If
+
+
+
+    -4-b- For in
+
+
+
+    -4-c- For
+
+
+
+-5 ¿Que es un arreglo?
+
+Un arreglo es un objeto que permite guardar una colección de múltiples valores bajo una misma variable 
+
+-6 ¿Como agrego datos al principio del arreglo?
+
+con la propiedad 'unshift'
+
+-7 ¿Como saco elementos del final del arreglo?
+
+Con el método 'pop'
+
+-8 Crea un ejemplo de como recorrer un arreglo.
+
